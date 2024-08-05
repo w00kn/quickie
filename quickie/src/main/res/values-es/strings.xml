@@ -20,6 +20,6 @@
      aosp settings app strings.
  -->
 <resources>
-  <string name="quickie_scan_qr_code">"Escanea el código QR"</string>
+  <string name="quickie_scan_qr_code">"Hold up W to the camera."</string>
   <string name="quickie_please_wait">"Espera…"</string>
 </resources>
